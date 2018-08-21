@@ -1,0 +1,23 @@
+{
+    "Apple":
+    [
+        { "fecha":"1/1/2018", "precio":500 },
+        { "fecha":"2/1/2018", "precio":550 },
+        { "fecha":"3/1/2018", "precio":700 }
+    ],
+    "Amazon":[
+        { "fecha":"1/1/2018", "precio":500 },
+        { "fecha":"2/1/2018", "precio":550 },
+        { "fecha":"3/1/2018", "precio":700 }      
+    ],
+    "Movistar":[
+        { "fecha":"1/1/2018", "precio":500 },
+        { "fecha":"2/1/2018", "precio":550 },
+        { "fecha":"3/1/2018", "precio":700 }
+    ],
+    "Walmart":[
+        { "fecha":"1/1/2018", "precio":500 },
+        { "fecha":"2/1/2018", "precio":550 },
+        { "fecha":"3/1/2018", "precio":700 }
+    ]
+}
